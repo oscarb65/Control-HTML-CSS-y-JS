@@ -41,7 +41,7 @@
         align-self: flex-end;
     }
     
-    main {
+    .principal {
         grid-area: cards;
         display: flex;
         flex-direction: row;
@@ -107,7 +107,7 @@
             font-size: 4rem;
             white-space: normal;
         }
-        main {
+        .principal { 
             margin-top: 2rem;
             flex-direction: column;
             gap: 1rem
